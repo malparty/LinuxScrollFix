@@ -2,7 +2,7 @@
 
 **Inspired by [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix), but for Linux!**
 
-![Linux Scroll Fix mascot](./img/LinuxScrollFix.png)
+<img src="./img/LinuxScrollFix.png" alt="Linux Scroll Fix mascot" width="350">
 
 ## Overview
 

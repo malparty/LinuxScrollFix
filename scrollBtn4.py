@@ -10,6 +10,7 @@ import evdev
 ##
 
 # Change to your actual mouse device
+# DEVICE_NAME = "Logitech MX Master"
 DEVICE_NAME = "Ploopy Corporation Ploopy Adept Trackball Mouse"
 QMK_KEYBOARD_KEYBOARD_NAME = "Diego Palacios cantor Mouse"
 
